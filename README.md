@@ -11,9 +11,13 @@
 - App Inventor(Android Phone App Creator, Using Accelerometer, Gauge, Button)
 
 
+### 테스트 사진  
+![](https://github.com/mtinet/arduinoNanoCarWithAndroid/blob/master/image/20180622_111258.jpg?raw=true)  
+
 ### 도면  
 
 
+### 아두이노 나노 모터 드라이버 관련 정보  
 ##### Link : [arduinoNanoMotorDriver](https://www.ebay.com/itm/L298P-2A-Dual-Channel-DC-Stepper-Motor-Driver-Shield-Module-For-Arduino-Nano-3-0-/201852742335)
 
 L298P 2A Dual Channel DC Stepper Motor Driver Shield Module For Arduino Nano 3.0  
