@@ -12,7 +12,8 @@
 
 ### 프로그램  
 - [Arduino Code](https://github.com/mtinet/arduinoNanoCarWithAndroid/blob/master/code/arduinoNanoCar.ino)  
-- [App Inventor .aia](https://github.com/mtinet/arduinoNanoCarWithAndroid/blob/master/appInventor/accelerometerServoSteer.aia)  - [App Inventor .apk](https://github.com/mtinet/arduinoNanoCarWithAndroid/blob/master/appInventor/accelerometerServoSteer.apk)  
+- [App Inventor .aia](https://github.com/mtinet/arduinoNanoCarWithAndroid/blob/master/appInventor/accelerometerServoSteer.aia)  
+- [App Inventor .apk](https://github.com/mtinet/arduinoNanoCarWithAndroid/blob/master/appInventor/accelerometerServoSteer.apk)  
 
 ### 테스트 사진  
 ![](https://github.com/mtinet/arduinoNanoCarWithAndroid/blob/master/image/20180622_111258.jpg?raw=true)  
